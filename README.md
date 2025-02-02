@@ -1,7 +1,7 @@
 # Add-To-Github
 
-This is demo test project
+This is demo test Project
 
-this is a more interesting thing
+this is a more interesting thing.
 
-hello bro, this is Hafiz Muhammad Zubair
+Hello bro, this is Hafiz Muhammad Zubair.
